@@ -37,5 +37,10 @@ public class Variables{
         System.out.println("x = y = z = 50;");
         System.out.println("System.out.println(x+y+z);\n");
 
+        System.out.println("4. Identificadores");
+        System.out.println("Todas las variables de JAVA deben identificarse con nombres exclusivos");
+        System.out.println("Estos nombres unicos se denominan IDENTIFICADORES");
+        System.out.println("Los identificadores pueden ser nombres cortos como x, y o nombres mas descriptivos como 'edad','suma', etc");
+        System.out.println("Nota: se recomienda utilizar nombres descriptivos para crear un codigo comprensible y mantenible");     
     }
 }
