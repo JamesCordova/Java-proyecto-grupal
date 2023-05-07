@@ -40,7 +40,7 @@
 <tr><td colspan="4">INTEGRANTE (s):
 <ul>
 <li>Chaisa Fernandez, Anthony Leonel</li>
-<li>INTEGRANTE 2</li>
+<li>Cordova Sellerico, James Seus</li>
 </ul>
 </td>
 <td>NOTA:</td><td>Pendiente</td>
@@ -64,7 +64,7 @@
 A. Repositorios del trabajo individual (Laboratorio 01)
 <ul>
 <li>https://github.com/ianthony4/23ALAB00.git</li>
-<li>segunda URL</li>
+<li>https://github.com/JamesCordova/Lab00-proyecto.git</li>
 </ul>
 B. Solucion del Trabajo Grupal:<br>
 <br>Pasos a detalle... (agregar capturas del codigo si es necesario en una carpeta 'imgLab')
@@ -85,7 +85,7 @@ Para que cualquier equipo funcione como tal, se deben cumplir ciertos valores qu
 <li>Comunicacion</li>
 </ul><br>
 C. ¿Qué son los entándares de codificación?<br><br>
-Son aquellas reglas, practicas y directrices que se 'recomiendan' para obtener un proyecto consistente y de muy buena calidad para que este sea entendinble, mantenible y compartible.<br>
+Son aquellas reglas, prácticas y directrices que se 'recomiendan' para obtener un proyecto consistente y de muy buena calidad para que este sea entendible, mantenible y compartible.<br>
 Estos son algunos de los estandares de codificacion comunes que mejoran el codigo:<br><br>
 <ul>
 <li>Identación</li>
