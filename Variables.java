@@ -22,6 +22,20 @@ public class Variables{
         System.out.println("System.out.println(\"Hola\"+name)");
         System.out.println("out -> Hola Anthony");
 
-        
+        System.out.println("3. Declaraion de Multiples Variables");
+        System.out.println("Para declarar mas de una variable del mismo tipo, podemos usar una lista separada por comas: ");
+        System.out.println("En lugar de escribir:");
+        System.out.println("int x = 5;");
+        System.out.println("int y = 6;");
+        System.out.println("int z = 50;");
+        System.out.println("System.out.println(x+y+z);\n");
+        System.out.println("Simplemente podemos escribir: ");
+        System.out.println("int x = 5, y = 6, z = 50;");
+        System.out.println("System.out.println(x+y+z);\n");
+        System.out.println("Un solo valor para multiples variables");
+        System.out.println("int x, y, z;");
+        System.out.println("x = y = z = 50;");
+        System.out.println("System.out.println(x+y+z);\n");
+
     }
 }
