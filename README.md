@@ -31,6 +31,7 @@
 <tbody>
 <tr><td>ASIGNATURA:</td><td colspan="5">Estructura de Datos y Algoritmos</td></tr>
 <tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Git - GitHub</td></tr>
+<tr><td>ENLACE DEL REPOSITORIO:</td><td colspan="5">https://github.com/JamesCordova/Lab01-Java</td></tr>
 <tr>
 <td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2023 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
