@@ -9,10 +9,11 @@ public class Operators {
         int suma2 = suma1 + 250;
         int suma3  = suma2 + suma2;
 
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
+        System.out.println("Java divide los operadores en los siguientes grupos: ");
+        System.out.println("Operadores aritmeticos : + - * / % ++ --");
+        System.out.println("Operadores de asignacion : + += -= *= /= %= &= |= <<= >>=");
+        System.out.println("Operadores de comparacion: == != < > >= <=");
+        System.out.println("Operadores logicos : && || !");
+
     }    
 }
