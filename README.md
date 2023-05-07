@@ -68,7 +68,6 @@ A. Repositorios del trabajo individual (Laboratorio 01)
 <li>https://github.com/JamesCordova/Lab00-proyecto.git</li>
 </ul>
 B. Solucion del Trabajo Grupal:<br>
-<br>Pasos a detalle... (agregar capturas del codigo si es necesario en una carpeta 'imgLab')
 <br>1. Para empezar, un integrante creó el repositorio GitHub donde los integrates trabajarían en sus respectivas ramas.
 <br>2. Luego se creó el `README.md` con el título del repositorio, entonces los demás integrantes crearon sus ramas para poder trabajar las partes asignadas
 <br><img src="labImg/Inicio.png">
