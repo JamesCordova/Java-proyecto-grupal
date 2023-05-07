@@ -74,9 +74,9 @@ B. Solucion del Trabajo Grupal:<br>
 <br>3. Cada integrante utilizo sus nombres para crear sus ramas y realizar sus avances.
 <br><img src="labImg/Ramas.png">
 <br>4. Cada cierto tiempo los integrantes hacían push de lo avanzado.
-<br><img src="labImg/Pushes.ong">
+<br><img src="labImg/Pushes.png">
 <br>5. Llegado cierto punto se hacía merge con las ramas ya terminadas a la rama `main`.
-<br><img src="labImg/Merges.ong">
+<br><img src="labImg/Merges.png">
 </td></tr>
 <tr><td>II. SOLUCIÓN DEL CUESTIONARIO<br>
 A. ¿Por qué Git y GitHub es una herramienta importante en el curso?<br><br>
