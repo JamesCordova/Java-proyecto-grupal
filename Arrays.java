@@ -14,5 +14,15 @@ public class Arrays{
 		System.out.println("Podemos usar la propiedad length para saber cuantos elementos hay el array");
 		System.out.println(autos.lenght);
 		System.out.println("A pesa de eso el número de índice mayor será n - 1");
+		
+		// Bucle a través de un Array
+		System.out.println("Podemos usar bucles a través del array");
+		for(int i = 0; i < autos.length; i++){
+			System.out.println(autos[i]);
+		}
+		System.out.println("También podemos con For each");
+		for(String i : autos){
+			System.out.println(i);
+		}
 	}
 }
