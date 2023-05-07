@@ -36,7 +36,7 @@
 <td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2023 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA DE PRESENTACIÓN:</td><td colspan="2">07-05-2023</td><td>HORA DE PRESENTACIÓN:</td><td colspan="2">por definir</td>
+<td>FECHA DE PRESENTACIÓN:</td><td colspan="2">07-05-2023</td><td>HORA DE PRESENTACIÓN:</td><td colspan="2">16:35 pm</td>
 </tr>
 <tr><td colspan="4">INTEGRANTE (s):
 <ul>
