@@ -24,5 +24,20 @@ public class Arrays{
 		for(String i : autos){
 			System.out.println(i);
 		}
+
+		// Arrays multidimensionales
+		System.out.println("Crear un array multidimensional necesitará utilizar más llaves");
+		int[][] myNums = { {1, 2, 3, 4}, {5, 6, 7} };
+		System.out.println("Acceder a un elemento en este tipo de arrays requiere indicar el índice más de una vez");
+		System.out.println(myNums[1][2]);
+		System.out.println("También podemos cambiar el valor de un elemento");
+		myNums[1][2] = 9;
+		System.out.println(myNums[1][2]);
+		System.out.println("Podemos usar un bucle con otro anidado para observar el array de dos dimensiones");
+		for (int i = 0; i < myNums.length; ++i) {
+			for(int j = 0; j < myNums[i].length; ++j) {
+				System.out.println(myNums[i][j]);
+			}
+		}
 	}
 }
