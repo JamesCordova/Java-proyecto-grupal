@@ -68,9 +68,15 @@ A. Repositorios del trabajo individual (Laboratorio 01)
 </ul>
 B. Solucion del Trabajo Grupal:<br>
 <br>Pasos a detalle... (agregar capturas del codigo si es necesario en una carpeta 'imgLab')
-<br>1.
-<br>2.
-<br>3.
+<br>1. Para empezar, un integrante creó el repositorio GitHub donde los integrates trabajarían en sus respectivas ramas.
+<br>2. Luego se creó el `README.md` con el título del repositorio, entonces los demás integrantes crearon sus ramas para poder trabajar las partes asignadas
+<br><img src="labImg/Inicio.png">
+<br>3. Cada integrante utilizo sus nombres para crear sus ramas y realizar sus avances.
+<br><img src="labImg/Ramas.png">
+<br>4. Cada cierto tiempo los integrantes hacían push de lo avanzado.
+<br><img src="labImg/Pushes.ong">
+<br>5. Llegado cierto punto se hacía merge con las ramas ya terminadas a la rama `main`.
+<br><img src="labImg/Merges.ong">
 </td></tr>
 <tr><td>II. SOLUCIÓN DEL CUESTIONARIO<br>
 A. ¿Por qué Git y GitHub es una herramienta importante en el curso?<br><br>
