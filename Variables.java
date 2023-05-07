@@ -13,5 +13,15 @@ public class Variables{
         char chr = 'a';
         System.out.println("boolean - almacena valores con 2 estados: verdadero o falso");
         boolean flag = true;
+
+        System.out.println("2. Imprimir Variables");
+        System.out.println("El metodo 'println()' se utiliza a menudo para mostrar variables.");
+        System.out.println("Para combinar texto y una variable, use el caracter '+'");
+        System.out.println("Ejemplo: ");
+        System.out.println("String name = \"Anthony\"");
+        System.out.println("System.out.println(\"Hola\"+name)");
+        System.out.println("out -> Hola Anthony");
+
+        
     }
 }
