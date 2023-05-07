@@ -99,10 +99,13 @@ Estos son algunos de los estandares de codificacion comunes que mejoran el codig
 <tr><td>III. CONCLUSIONES
 <ul>
 <li>
-1ra
+Git es una herramienta bastante útil para el aprendizaje, ya que permite el fácil intercambio de información entre programadores de todo el mundo.
 </li>
 <li>
-2da
+Para lograr un trabajo eficiente como equipo debemos cumplir con ciertos valores necesarios para que el proyecto sea el optimo y deseado, por otro lado se debe seguir otros aspectos que estan vinculadas con las buenas practicas de programación pero que buscan el mismo objetivo de mantener un codigo eficiente, legible y de alta calidad.
+</li>
+<li>
+El trabajo en equipo en Git es óptimo. Si bien puede ser algo complejo al principio, cuando se llega a entender las conexiones, el funcionamiento entre las ramas, el trabajo grupal se convierte en algo sencillo, agradable y funcional.
 </li>
 </ul>
 </td></tr>
@@ -110,6 +113,7 @@ Estos son algunos de los estandares de codificacion comunes que mejoran el codig
 </table>
 <table>
 <theader>
+<!---La RETROALIMENTACION lo completa el docente de ser necesario-->
 <tr><th>RETROALIMENTACIÓN GENERAL</th></tr>
 </theader>
 <tbody>
