@@ -73,22 +73,39 @@ B. Solucion del Trabajo Grupal:<br>
 <br>3.
 </td></tr>
 <tr><td>II. SOLUCIÓN DEL CUESTIONARIO<br>
-A. ¿Por qué Git y GitHub es una herramienta importante en el curso de Programación Web 2?<br>
-Respuesta: <br>
-...<br>
-B.¿Qué conductas éticas deberían promocionarse cuando se usa un Sistema de Control de Versiones?<br>
-Respuesta: <br>
-...<br>
-C. ¿Qué son los entándares de codificación?<br>
-Respuesta: <br>
-...<br></td></tr>
+A. ¿Por qué Git y GitHub es una herramienta importante en el curso?<br><br>
+A lo largo de esta practica, los integrantes hemos podido apreciar que Git y GitHub permite controlar las versiones del proyecto, la colaboracion del proyecto con otras personas, estamos seguros que esa es una forma eficiente de mantener el codigo, tambien se observo que es facil saber lo que un colaborador hace o realiza en el proyecto con la ayuda de los commit's. Todo esto mejora la calidad y eficiencia de un trabajo, proyecto y software.<br><br>
+B.¿Qué conductas éticas deberían promocionarse cuando se usa un Sistema de Control de Versiones?<br><br>
+Para que cualquier equipo funcione como tal, se deben cumplir ciertos valores que promueven el desarrollo de todos los integrantes, estos son algunos valores importantes que se debe cumplir en este equipo: <br><br>
+<ul>
+<li>Respeto</li>
+<li>Responsabilidad</li>
+<li>Compromiso</li>
+<li>Honestidad</li>
+<li>Comunicacion</li>
+</ul><br>
+C. ¿Qué son los entándares de codificación?<br><br>
+Son aquellas reglas, practicas y directrices que se 'recomiendan' para obtener un proyecto consistente y de muy buena calidad para que este sea entendinble, mantenible y compartible.<br>
+Estos son algunos de los estandares de codificacion comunes que mejoran el codigo:<br><br>
+<ul>
+<li>Identación</li>
+<li>Uso eficiente de espacios</li>
+<li>Limite de codigo en una linea</li>
+<li>Commit's de buena calidad</li>
+<li>Declaracion de variables y/o funciones de valor</li>
+<li>Manejo adecuado de errores y excepciones</li>
+<li>Seguridad del codigo</li>
+</ul><br></td></tr>
 <tr><td>III. CONCLUSIONES
 <ul>
 <li>
-1ra
+Git es una herramienta bastante útil para el aprendizaje, ya que permite el fácil intercambio de información entre programadores de todo el mundo.
 </li>
 <li>
-2da
+Para lograr un trabajo eficiente como equipo debemos cumplir con ciertos valores necesarios para que el proyecto sea el optimo y deseado, por otro lado se debe seguir otros aspectos que estan vinculadas con las buenas practicas de programación pero que buscan el mismo objetivo de mantener un codigo eficiente, legible y de alta calidad.
+</li>
+<li>
+El trabajo en equipo en Git es óptimo. Si bien puede ser algo complejo al principio, cuando se llega a entender las conexiones, el funcionamiento entre las ramas, el trabajo grupal se convierte en algo sencillo, agradable y funcional.
 </li>
 </ul>
 </td></tr>
@@ -96,6 +113,7 @@ Respuesta: <br>
 </table>
 <table>
 <theader>
+<!---La RETROALIMENTACION lo completa el docente de ser necesario-->
 <tr><th>RETROALIMENTACIÓN GENERAL</th></tr>
 </theader>
 <tbody>
@@ -111,6 +129,7 @@ Respuesta: <br>
 <ul>
 <li>https://guides.github.com/</li>
 <li>https://www.w3schools.com/java/default.asp</li>
+<li>https://learn.microsoft.com/es-es/connectors/custom-connectors/coding-standards</li>
 </ul>
 </td></tr>
 </tbody>
